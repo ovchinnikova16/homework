@@ -1,0 +1,15 @@
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\obj\Debug\HomeExercises.csprojResolveAssemblyReference.cache
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\ObjectComparison.dll
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\ObjectComparison.pdb
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\FluentAssertions.Core.dll
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\FluentAssertions.dll
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\JetBrains.Annotations.dll
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\nunit.framework.dll
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\FluentAssertions.pdb
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\FluentAssertions.xml
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\FluentAssertions.Core.pdb
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\FluentAssertions.Core.xml
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\JetBrains.Annotations.xml
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\bin\Debug\nunit.framework.xml
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\obj\Debug\ObjectComparison.dll
+D:\liza\ФИИТ\ШПоРа\testing-master\HomeExercises\obj\Debug\ObjectComparison.pdb
